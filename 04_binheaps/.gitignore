@@ -4,7 +4,6 @@ cmake_install.cmake
 Makefile
 libbinheap.so
 libcommon.a
-test_*
 .vscode/*
 build/*
 install_manifest.txt
